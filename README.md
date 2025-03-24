@@ -25,14 +25,14 @@ A **modern fitness tracking app** designed to help users **monitor their physica
 
 ## 🚀 Getting Started
 
-##🌐 View Web App in Mobile Mode
-##To view the web app as a mobile app, follow these steps:
+## 🌐 View Web App in Mobile Mode
+To view the web app as a mobile app, follow these steps:
 
-1️⃣ **Open the web app link in Chrome/Firefox/Edge.
-2️⃣ **Right-click anywhere on the page and select Inspect (or press F12).
-3️⃣ **Click on the "Toggle Device Toolbar" icon (or press Ctrl + Shift + M in Chrome).
-4️⃣ **Select a mobile device from the dropdown (e.g., iPhone 12, Pixel 5).
-5️⃣ **Refresh the page for a better experience.
+- 1️⃣ **Open the web app link in Chrome/Firefox/Edge.**
+- 2️⃣ **Right-click anywhere on the page and select Inspect (or press F12).**
+- 3️⃣ **Click on the "Toggle Device Toolbar" icon (or press Ctrl + Shift + M in Chrome).**
+- 4️⃣ **Select a mobile device from the dropdown (e.g., iPhone 12, Pixel 5).**
+- 5️⃣ **Refresh the page for a better experience.**
 
 This ensures the web app is displayed just like a mobile app! 📱
 
