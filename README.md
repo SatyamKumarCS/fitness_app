@@ -2,71 +2,76 @@
 
 A **modern fitness tracking app** designed to help users **monitor their physical activities, track progress, and stay motivated** towards achieving their fitness goals. Built using **Flutter & Firebase**, the app provides real-time tracking, personalized insights, and an engaging user experience tailored for mobile screens.
 
-🌟 Key Features
-✅ User Authentication (Firebase Auth)
-✅ Interactive Dashboard for progress tracking
-✅ Workout & Activity Logging
-✅ Calorie & Nutrition Insights
-✅ Daily Goals & Streak Tracking
-✅ Real-time Sync with Firebase
-✅ Dark Mode Support
-✅ Mobile-Optimized UI
+## 🌟 Features
 
-🛠️ Tech Stack
-Frontend: Flutter (Dart)
+✅ **User Authentication** (Firebase Auth)  
+✅ **Personalized Dashboard**  
+✅ **Workout & Activity Tracking**  
+✅ **Calorie & Nutrition Insights**  
+✅ **Daily Progress & Streaks**  
+✅ **Real-time Sync with Firebase**  
+✅ **Dark Mode Support**  
+✅ **Responsive UI for Mobile**  
 
-Backend: Firebase Firestore, Firebase Authentication
+## 🛠️ Tech Stack
 
-Hosting: Firebase Hosting / Netlify
+- **Frontend**: Flutter (Dart)
+- **Backend**: Firebase Firestore, Firebase Authentication
+- **Hosting**: Firebase Hosting / Netlify
 
-📸 Screenshots
+## 📸 Screenshots
 
+![App Screenshot](link-to-screenshot)
 
-🚀 Getting Started
-Prerequisites
-Ensure you have the following installed before running the app:
+## 🚀 Getting Started
 
-Flutter SDK
+##🌐 View Web App in Mobile Mode
+##To view the web app as a mobile app, follow these steps:
 
-Dart
+1️⃣ **Open the web app link in Chrome/Firefox/Edge.
+2️⃣ **Right-click anywhere on the page and select Inspect (or press F12).
+3️⃣ **Click on the "Toggle Device Toolbar" icon (or press Ctrl + Shift + M in Chrome).
+4️⃣ **Select a mobile device from the dropdown (e.g., iPhone 12, Pixel 5).
+5️⃣ **Refresh the page for a better experience.
 
-Firebase CLI
+This ensures the web app is displayed just like a mobile app! 📱
 
-Installation & Setup
-1️⃣ Clone the repository
+### **Prerequisites**
+Ensure you have the following installed:
+- Flutter SDK
+- Dart
+- Firebase CLI (for deployment)
 
+### **Installation & Setup**
+
+1️⃣ **Clone the repository**
 sh
-Copy
-Edit
-git clone https://github.com/SatyamKumarCS/fitness_app.git
-cd fitness_app
-2️⃣ Install dependencies
+ git clone https://github.com/SatyamKumarCS/fitness_app.git
+ cd fitness_app
 
+
+2️⃣ **Install dependencies**
 sh
-Copy
-Edit
-flutter pub get
-3️⃣ Run the app
+ flutter pub get
 
+
+3️⃣ **Run the app**
 sh
-Copy
-Edit
-flutter run
-4️⃣ Deploy to Firebase (Optional)
+ flutter run
 
+
+4️⃣ **Deploy to Firebase** *(Optional)*
 sh
-Copy
-Edit
-firebase deploy --only hosting
-🔥 Deployment
-Netlify: netlify deploy
+ firebase deploy --only hosting
 
-Vercel: vercel --prod
 
-Firebase Hosting: firebase deploy
+## 🔥 Deployment
+- **Netlify**: netlify deploy
+- **Vercel**: vercel --prod
+- **Firebase Hosting**: firebase deploy
 
-🤝 Contributing
-Contributions are welcome! If you'd like to improve this project, feel free to fork the repo, create a branch, and submit a pull request.
+## 🤝 Contribution
+Contributions are welcome! Feel free to fork the repo and submit a PR. 😊
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
